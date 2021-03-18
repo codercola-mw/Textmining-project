@@ -1,0 +1,9 @@
+Abstract
+This study is to explore how the features and characters are described among different
+regions. And the next step is to create a model to classifiy wine region bases on the wine reviews. The project used TF-IDF vectorizer and Count vectorizer of 130k
+samples from the top 10 regions to analysis adjectives and nouns in unigram dn
+bigrams that are represented the characteries of the region. Statistical models as Navie
+Bayes and Logistics Regression, as well as nueral netword model as Multilayer
+Preceptron and Convolution Neural Networds, are used to classify region from the
+tasting reviews. The result indicated that the unigram model has a higher performance
+among all the classifiers to classifiy the region, and also the insights of wine features are extracted by comparing unigram and bigram models.
